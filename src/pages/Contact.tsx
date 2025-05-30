@@ -1,5 +1,5 @@
 
-import { CheckCircle2, Clock, Mail, MapPin, Phone } from "lucide-react";
+import { CheckCircle2, Clock, Mail, MapPin } from "lucide-react";
 import Layout from "../components/layout/Layout";
 import ContactForm from "../components/ui/ContactForm";
 import PageHeader from "../components/ui/PageHeader";
@@ -153,10 +153,10 @@ export default function Contact() {
                 For inquiries related to building construction, renovation, project management, and consulting.
               </p>
               <ul className="space-y-3 mb-6">
-                <li className="flex items-center">
+                {/* <li className="flex items-center">
                   <Phone size={16} className="mr-2 text-primary" />
                   <span>(123) 456-7892</span>
-                </li>
+                </li> */}
                 <li className="flex items-center">
                   <Mail size={16} className="mr-2 text-primary" />
                   <span>contact@dokagroup-nl.com</span>
@@ -176,10 +176,10 @@ export default function Contact() {
                 For inquiries about manpower services, workforce recruitment, and staffing solutions.
               </p>
               <ul className="space-y-3 mb-6">
-                <li className="flex items-center">
+                {/* <li className="flex items-center">
                   <Phone size={16} className="mr-2 text-primary" />
                   <span>(123) 456-7893</span>
-                </li>
+                </li> */}
                 <li className="flex items-center">
                   <Mail size={16} className="mr-2 text-primary" />
                   <span>contact@dokagroup-nl.com</span>
@@ -199,10 +199,10 @@ export default function Contact() {
                 For inquiries about bakery products, custom orders, wholesale supply, and catering.
               </p>
               <ul className="space-y-3 mb-6">
-                <li className="flex items-center">
+                {/* <li className="flex items-center">
                   <Phone size={16} className="mr-2 text-primary" />
                   <span>(123) 456-7894</span>
-                </li>
+                </li> */}
                 <li className="flex items-center">
                   <Mail size={16} className="mr-2 text-primary" />
                   <span>contact@dokagroup-nl.com</span>
