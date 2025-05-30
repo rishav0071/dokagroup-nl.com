@@ -34,6 +34,12 @@ export default function Contact() {
                     <p className="text-gray-600">
                       Branch in Australia
                     </p>
+                    <p className="text-gray-600">
+                    New branch 31 Reagh Farms Road, Minto NSW , Australia
+                    </p>
+                    <p className="text-gray-600">
+                    Northland address :- Longobardenweg PL Oss, Netherland
+                    </p>
                     
                   </div>
                 </div>
