@@ -87,6 +87,11 @@ export default function Footer() {
                 <MapPin size={20} className="mr-3 text-primary flex-shrink-0" />
                 <span className="text-gray-300">Branch in Malta</span>
               </li>
+
+               <li className="flex">
+                <MapPin size={20} className="mr-3 text-primary flex-shrink-0" />
+                <span className="text-gray-300">Branch in Italy</span>
+              </li>
               <li className="flex">
                 <MapPin size={20} className="mr-3 text-primary flex-shrink-0" />
                 <span className="text-gray-300">New branch 31 Reagh Farms Road, Minto NSW , Australia</span>

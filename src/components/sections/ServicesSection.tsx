@@ -1,11 +1,11 @@
 
 import {
-  Building,
-  CakeSlice,
-  Hammer,
-  HardHat,
-  TrendingUp,
-  Users
+    Building,
+    CakeSlice,
+    Hammer,
+    HardHat,
+    TrendingUp,
+    Users
 } from "lucide-react";
 import ServiceCard from "../ui/ServiceCard";
 
@@ -59,7 +59,7 @@ export default function ServicesSection() {
           
           <ServiceCard 
             title="Fresh Bakery Products"
-            description="Delight in our artisanal breads, pastries, and baked goods, platform4nzed with premium ingredients and traditional techniques."
+            description="Delight in our artisanal breads, pastries, and baked goods, dokagroup-nled with premium ingredients and traditional techniques."
             icon={<CakeSlice size={24} />}
             link="/bakery"
             bgColor="bg-white"

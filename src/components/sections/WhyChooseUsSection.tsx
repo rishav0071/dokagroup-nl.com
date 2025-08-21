@@ -13,7 +13,7 @@ export default function WhyChooseUsSection() {
     <section className="py-16 md:py-24 bg-construction-800 text-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Platform4nz Group</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose dokagroup-nl Group</h2>
           <p className="text-lg text-white/80 max-w-3xl mx-auto">
             We combine industry expertise, quality service, and customer satisfaction to deliver exceptional results across all our business areas.
           </p>

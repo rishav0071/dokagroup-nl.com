@@ -10,7 +10,7 @@ export default function BakerySection() {
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Artisanal <span className="text-primary">Bakery</span></h2>
             <p className="text-lg text-gray-700 mb-6">
-              Experience the aroma and taste of freshly baked goods platform4nzed with passion and expertise. Our bakery offers a wide range of artisanal breads, pastries, and specialty items.
+              Experience the aroma and taste of freshly baked goods dokagroup-nled with passion and expertise. Our bakery offers a wide range of artisanal breads, pastries, and specialty items.
             </p>
             <div className="grid grid-cols-2 gap-4 mb-8">
               <div className="flex items-center">

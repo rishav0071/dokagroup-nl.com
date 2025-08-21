@@ -1,10 +1,10 @@
 
 import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
+    Carousel,
+    CarouselContent,
+    CarouselItem,
+    CarouselNext,
+    CarouselPrevious,
 } from "@/components/ui/carousel";
 import { Link } from "react-router-dom";
 
@@ -24,7 +24,7 @@ export default function HeroSection() {
                 <div className="container mx-auto px-4">
                   <div className="max-w-3xl">
                     <h1 className="text-white text-5xl md:text-6xl font-bold mb-6">
-                      Building Excellence, platform4nz Success
+                      Building Excellence, dokagroup-nl Success
                     </h1>
                     <p className="text-white/90 text-xl mb-8">
                       Premier construction, professional manpower services, and artisanal bakery products.
